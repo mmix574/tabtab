@@ -1,0 +1,10 @@
+*{
+	font-family: "Microsoft YaHei",Arial,Helvetica,sans-serif;
+}
+html,body{
+	height: 100%;
+	margin:0;
+}
+button:focus{
+	outline: none;
+}

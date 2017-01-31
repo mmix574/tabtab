@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+
+  "name": "tabTab",
+  "description": "an simply and powerful Search Extension you will love",
+  "version": "0.9",
+  "icons":{
+      "128":"icon.png"
+  },
+  "permissions": [
+
+  ],
+   "web_accessible_resources": [
+      "html/*.html",
+      "js/*.js",
+      "css/*.css"
+    ],
+  "chrome_url_overrides" : {
+  "newtab": "html/newtab.html"
+}
+}
