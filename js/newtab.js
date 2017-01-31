@@ -27,7 +27,10 @@ var search_url = {
     "bing": "http://cn.bing.com/search?q=",
     "sougou": "https://www.sogou.com/web?query=",
     "stackoverflow": "https://www.google.com.hk/#&q=site:stackoverflow.com ",
-    "zhihu": "https://www.google.com.hk/#&q=site:zhihu.com "
+    "zhihu": "https://www.google.com.hk/#&q=site:zhihu.com ",
+    "chromestore":"https://chrome.google.com/webstore/search/",
+    "taobao":"https://s.taobao.com/search?q=",
+    "youtube":"https://www.youtube.com/results?search_query="
 }
 
 
