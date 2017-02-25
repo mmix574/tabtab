@@ -30,7 +30,9 @@ var search_url = {
     "zhihu": "https://www.google.com.hk/#&q=site:zhihu.com ",
     "chromestore":"https://chrome.google.com/webstore/search/",
     "taobao":"https://s.taobao.com/search?q=",
-    "youtube":"https://www.youtube.com/results?search_query="
+    "youtube":"https://www.youtube.com/results?search_query=",
+    "jianshu":"https://www.google.com.hk/#&q=site:www.jianshu.com ",
+    "tuicool":"https://www.google.com.hk/#&q=site:www.tuicool.com "
 }
 
 
