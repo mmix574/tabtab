@@ -8,7 +8,7 @@
       "128":"icon.png"
   },
   "permissions": [
-
+  	"bookmarks"
   ],
    "web_accessible_resources": [
       "html/*.html",

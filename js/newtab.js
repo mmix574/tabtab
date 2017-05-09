@@ -40,3 +40,4 @@ var do_search = function(engine, content) {
     var newUrl = search_url[engine]+content;
     window.location.href=newUrl;
 }
+
